@@ -23,7 +23,7 @@ Ollama ключ: [ollama.com](https://ollama.com)
 ## Запуск
 
 ```bash
-python bot2.py
+python bot.py
 ```
 
 ## Команды
